@@ -1,11 +1,11 @@
 # hello-world<br>
 use Go and Git Bash to push a demo named hello-world<br>
 ##安装 <br>
-[img]:https://github.com/willkernel/hello-world/tree/master/pngfiles/tortoisegit_msi.png<br>
+![img]:https://github.com/willkernel/hello-world/tree/master/pngfiles/tortoisegit_msi.png<br>
 查看version<br>
 以及安装git ，使用gitbash命令<br>
 新建文件夹<br>
-[img]:https://github.com/willkernel/hello-world/tree/master/pngfiles/mkdirs.png<br>
+![img](https://github.com/willkernel/hello-world/tree/master/pngfiles/mkdirs.png?raw=true)<br>
 
 *环境变量<br>
 [img]:https://github.com/willkernel/hello-world/tree/master/pngfiles/setenv.png<br>
