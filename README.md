@@ -43,4 +43,4 @@ go build<br>
 
 openSSH 输入github用户名及密码
 推送成功<br>
-[img]https://github.com/willkernel/hello-world/tree/master/pngfiles/success.png
+[img]:https://github.com/willkernel/hello-world/tree/master/pngfiles/success.png
